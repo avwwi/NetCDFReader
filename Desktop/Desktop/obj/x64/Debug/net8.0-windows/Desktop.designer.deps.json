@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SDSLite/3.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/ScientificDataSet.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDSLite/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k4cfBsRvj7sAGDDV3F6hAV89k1lhZsK6h5UcUsQ0sW8m5e8ElyQwMtvO9Di4eDVDf/hwlulW4KWF5ozGrH7+iA==",
+      "path": "sdslite/3.0.1",
+      "hashPath": "sdslite.3.0.1.nupkg.sha512"
+    }
+  }
+}

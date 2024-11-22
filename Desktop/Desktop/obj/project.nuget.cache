@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hogaPhC1OCQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abhijat\\Desktop\\CDF\\Desktop\\Desktop\\Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhijat\\.nuget\\packages\\sdslite\\3.0.1\\sdslite.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
